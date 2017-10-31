@@ -19,7 +19,7 @@ function move(e){
 //alert(e.keycode);
 
 if (e.keyCode == 39){
-xPos += 2;
+xPos += 3;
 
 }
 if (e.keyCode == 37){
